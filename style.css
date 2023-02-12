@@ -1,0 +1,17 @@
+span {
+    display: inline-block;
+  }
+  
+  body {
+      text-align: center;
+  }
+  
+  .FrogPic {
+    height: 100px;
+    width: 100px;
+  }
+  
+  .KoalaPic {
+    height: 100px;
+    width: 100px;
+  }
